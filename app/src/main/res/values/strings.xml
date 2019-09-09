@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DEVOPS</string>
+    <string name="recaptcha_site_key">6LeZ260UAAAAAOzqOdLZDbq-uP8GjUAtVadrcTX8</string>
+    <string name="save">Save</string>
+    <string name="sign_up">Sign up</string>
+    <string name="passwort">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="firstname">First Name</string>
+    <string name="first_name">First Name</string>
+	<string name="title">Baxodir</string>
+	<string name="text_text">Umarovning fikricha, xavfsizlik masalalarini hal qilishda va taʼminlashda tonirovka hech ham toʻsiq boʻlolmaydi.
+
+"Menga "Instagram"dagi sahifam orqali bahsli mavzu — "tonirovka" borasida juda koʻp murojaat kelib tushmoqda. Shu sababli va bu aktual mavzuning qisman xavfsizlik masalasi bilan bogʻliqligi uchun oʻz fikrimni bildirishga qaror qildim. Fikrimcha, "tonirovka" mavzusi Oʻzbekiston sharoitida dolzarb va oʻrinli koʻtarilgan. Chunki yurtimizda iqlim sharoiti yoz oylari, ayniqsa, chilla payti juda ogʻir boʻladi.
+
+Masalaning muhim ekanligini hamda Internet tarmoqlari orqali jamoatchilik, blogerlar va deputatlar murojaatlarini inobatga olib, biz mutasaddi davlat idoralariga bu masalani amaliyotga joriy qilish yuzasidan tegishli tavsiyalar berdik. Hozirda "tonirovka" mavzusi boshqa davlatlar tajribasidan kelib chiqib, har tomonlama koʻrib chiqilmoqda.
+
+Xavfsizlik nuqtai nazaridan qaraydigan boʻlsak, shuni alohida aytmoqchimanki, bizda ushbu yoʻnalishda hamma zarur choralar ishlab chiqilgan va ijrosi taʼminlangan. Avtoulov "tonirovka"si xavfsizlik masalalarini hal qilishda va taʼminlashda bizga toʻsiq boʻlolmaydi", - deb yozgan Umarov.
+Read more: https://sputniknews-uz.com/society/20190720/12046497/Mirzievning-kuvi-tonirovka-mavzusi-khavfsizlikni-taminlashda-tsi-blolmaydi-dedi.html</string>
+    <string name="topic">Notification</string>
+    <string name="yangiliklar">Yangiliklar</string>
+	<string name="enter_pin">Enter pin</string>
+	<string name="i_m_not_a_robot">\  I\'m not a robot</string>
+</resources>

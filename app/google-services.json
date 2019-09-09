@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925294496534",
+    "firebase_url": "https://adm-monitoring.firebaseio.com",
+    "project_id": "adm-monitoring",
+    "storage_bucket": "adm-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925294496534:android:c5399b5834d3103f",
+        "android_client_info": {
+          "package_name": "com.e.myworkplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925294496534-t32th6edmn0jq2la8ecjm9qu27sopsfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwoiWqL4jhjls-3aZxAkhUJwZ_P1z3x-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925294496534-t32th6edmn0jq2la8ecjm9qu27sopsfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

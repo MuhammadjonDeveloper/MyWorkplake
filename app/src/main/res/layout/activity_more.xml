@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:background="@color/colorWhite"
+				xmlns:app="http://schemas.android.com/apk/res-auto">
+	<com.google.android.material.appbar.AppBarLayout
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:theme="@style/MainTheme"
+			android:id="@+id/ssssssss"
+			android:layout_alignParentStart="true"
+			android:layout_alignParentLeft="true"
+			android:layout_alignParentTop="true">
+		
+		<androidx.appcompat.widget.Toolbar
+				android:id="@+id/more_toolbar"
+				android:layout_width="match_parent"
+				android:layout_height="?attr/actionBarSize"
+				android:background="@color/colorWhile"
+				app:popupTheme="@style/AppTheme.PopupOverlay"/>
+	
+	</com.google.android.material.appbar.AppBarLayout>
+	
+	<ScrollView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@+id/ssssssss"
+			android:layout_marginTop="0dp">
+		
+		<androidx.appcompat.widget.LinearLayoutCompat
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:padding="8dp"
+				android:orientation="vertical">
+			
+			<com.e.myworkplace.components.CustomTextView
+					android:id="@+id/more_title"
+					android:textSize="24sp"
+					android:gravity="center"
+					android:layout_marginTop="8dp"
+					app:textFontStyle="bold"
+					android:textColor="@color/colorBlueDarkTitle"
+					android:layout_width="match_parent"
+					android:text="@string/title"
+					android:layout_height="wrap_content"/>
+			
+			<com.e.myworkplace.components.CustomTextView
+					android:layout_width="match_parent"
+					android:gravity="right"
+					android:textSize="18sp"
+					android:textColor="@color/colorBlueDark"
+					app:textFontStyle="light"
+					android:text="13:25 20.07.2019"
+					android:layout_height="wrap_content"/>
+			
+			<com.e.myworkplace.components.CustomTextView
+					android:textSize="18sp"
+					app:textFontStyle="reguler"
+					android:textColor="@color/colorBlack"
+					android:layout_margin="10dp"
+					android:layout_below="@+id/layout_more"
+					android:id="@+id/more_body"
+					android:text="@string/text_text"
+					android:layout_centerHorizontal="true"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					/>
+			
+			<com.e.myworkplace.components.CustomTextView
+					android:textSize="18sp"
+					app:textFontStyle="italic"
+					android:layout_margin="10dp"
+					android:layout_below="@+id/layout_more"
+					android:id="@+id/more_adm"
+					android:text="adm adm"
+					android:textColor="@color/colorBlack"
+					android:layout_centerHorizontal="true"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					/>
+		</androidx.appcompat.widget.LinearLayoutCompat>
+	</ScrollView>
+</RelativeLayout>
